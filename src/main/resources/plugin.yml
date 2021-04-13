@@ -1,0 +1,24 @@
+name: Ancient
+version: ${project.version}
+main: me.bestranger11.ancient.Main
+api-version: 1.16
+commands:
+  romanarmor:
+    description: gives armor
+    usage: /<command>
+  customroman:
+    description: all custom roman weapons
+    usage: /<command>
+  createnpc_roman:
+    description: makes npc
+    usage: /<command>
+  createnpc_persian:
+    description: makes npc
+    usage: /<command>
+  soldier_shop:
+    description: makes npc
+    usage: /<command>
+
+
+
+
